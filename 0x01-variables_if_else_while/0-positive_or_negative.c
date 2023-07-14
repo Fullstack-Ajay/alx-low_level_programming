@@ -5,7 +5,7 @@
 /**
  * main - entry point
  * Description: true or false validation
- * Return : 0 (Success)
+ * Return : Always 0 (Success)
  */
 
 int main(void)
