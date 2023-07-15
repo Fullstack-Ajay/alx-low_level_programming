@@ -12,7 +12,6 @@ int main(void)
 	int x = 48;
 
 	while (x <= 102)
-
 	{
 		putchar(x);
 
@@ -21,7 +20,6 @@ int main(void)
 		x++;
 
 	}
-
 	putchar('\n');
 
 	return (0);
