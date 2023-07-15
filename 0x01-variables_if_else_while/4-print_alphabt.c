@@ -16,10 +16,9 @@ int main(void)
 
 	while (x <= 'z')
 	{
-		if (x == 'q' || x == 'e')
+		if (x == 'e' || x == 'q')
 		x++;
 
-		else
 		putchar(x);
 		x++;
 	}
