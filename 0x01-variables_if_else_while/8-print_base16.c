@@ -19,8 +19,8 @@ int main(void)
 	putchar(x);
 
 		if (x == 57)
-			X += 37;
-			x++
+			x += 37;
+			x++;
 
 	}
 
