@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- * _abs: computes absolute value of number
+ * _abs - computes absolute value of number
  *
  * @n: number to be tested
  */
