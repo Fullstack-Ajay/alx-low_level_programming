@@ -1,9 +1,16 @@
 #include "main.h"
+
+
 /*
  * _abs - computes absolute value of number
  *
  * @n: number to be tested
+ *
+ * Return: returns value of int 
+ *
  */
+
+
 int _abs(int n)
 {
 	if (n < 0)
