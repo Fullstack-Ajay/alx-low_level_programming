@@ -2,11 +2,11 @@
 
 
 /*
- * _abs - computes absolute value of number
+ * _abs - fuction that computes absolute value of number
  *
  * @n: number to be tested
  *
- * Return: returns value of int 
+ * Return: returns value of int
  *
  */
 
