@@ -6,7 +6,7 @@
  *
  * Return: integer
  */
-int add(int, int)
+int add(int x,int y)
 {
 	int x, y, sum;
 
