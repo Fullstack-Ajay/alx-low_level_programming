@@ -40,7 +40,7 @@ int isdelimiter(char c)
  */
 char *cap_string(char *s)
 {
-	char *ptr = s
+	char *ptr = s;
 		int foundDelemit = 1;
 
 	while (*s)
