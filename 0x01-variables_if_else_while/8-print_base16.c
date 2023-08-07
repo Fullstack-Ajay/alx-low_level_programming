@@ -1,26 +1,21 @@
 #include <stdio.h>
-
 /**
- * main - entry point
- *
- * Description: goes here
- *
- * Return: Always 0 (Success)
+ * main - Program that prints all the numbers of base
+ * 16 in lowercase
+ * Return: 0 (Success)
  */
 int main(void)
 {
-	int x = 48;
+	int i;
 
-	while (x <= 102)
+	for (i = 48; i < 58; i++)
 	{
-		putchar(x);
-
-		if (x == 57)
-			x += 37;
-		x++;
-
+		putchar(i);
+	}
+	for (i = 97; i < 103; i++)
+	{
+		putchar(i);
 	}
 	putchar('\n');
-
 	return (0);
 }
